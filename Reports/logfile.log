@@ -1,0 +1,1416 @@
+2024-04-03 18:44:24,620 :CRITICAL :test_searchProducts :Expected Result does not have Online Shopping
+assert 'Test' in 'Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in'
+2024-04-03 20:20:43,115 :CRITICAL :test_verifyWebsite :Expected Result does not have Online Shopping
+assert 'Test' in 'Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in'
+2024-04-03 20:35:39,630 :ERROR :test_verifySearchProducts :type object 'Keys' has no attribute 'ENTE'
+2024-04-03 21:05:19,315 :ERROR :test_verifySearchProducts :argument of type 'WebElement' is not iterable
+2024-04-03 21:05:42,854 :ERROR :test_SignUpForm :ActionChains.__init__() missing 1 required positional argument: 'driver'
+2024-04-03 21:06:35,044 :ERROR :test_verifySearchProducts :argument of type 'WebElement' is not iterable
+2024-04-03 21:10:10,602 :ERROR :test_verifySearchProducts :argument of type 'WebElement' is not iterable
+2024-04-03 21:26:32,307 :ERROR :test_SignUpForm :Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:192:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:510:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-04-03 21:29:24,188 :ERROR :test_SignUpForm :Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:192:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:510:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-04-03 21:32:22,622 :ERROR :test_SignUpForm :Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:192:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:510:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-04-03 21:35:08,664 :ERROR :test_SignUpForm :Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:192:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:510:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-04-03 22:25:00,188 :ERROR :test_SignUpForm :Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:192:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:510:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-04-03 22:25:44,161 :ERROR :test_SignUpForm :Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:192:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:510:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-04-03 22:37:38,656 :ERROR :test_SignUpForm :Message: 
+
+2024-04-03 22:41:01,663 :ERROR :test_SignUpForm :Message: 
+
+2024-04-03 22:41:06,954 :CRITICAL :test_VerifyEmptyFormValidation :Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:192:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:510:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-04-03 23:23:45,892 :CRITICAL :test_VerifyEmptyFormValidation :Expected words not found in error message
+assert False
+ +  where False = all(<generator object Test_SignUp.test_VerifyEmptyFormValidation.<locals>.<genexpr> at 0x000001BBC3D8BE00>)
+2024-04-04 11:29:09,061 :CRITICAL :test_Verify_Valid_Form_Submission :Message: Select only works on <select> elements, not on input
+
+2024-04-04 11:40:05,810 :CRITICAL :test_Verify_Valid_Form_Submission :Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:192:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:510:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+
+2024-04-04 19:56:11,462 :CRITICAL :test_Verify_Valid_Form_Submission :Message: Select only works on <select> elements, not on input
+
+2024-04-04 19:58:26,733 :CRITICAL :test_Verify_Valid_Form_Submission :Message: Could not locate element with visible text: GB; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+
+2024-04-04 20:04:57,777 :CRITICAL :test_Verify_Valid_Form_Submission :object of type 'WebElement' has no len()
+2024-04-04 20:09:22,234 :CRITICAL :test_Verify_Valid_Form_Submission :Message: 
+
+2024-04-04 20:11:13,028 :CRITICAL :test_Verify_Valid_Form_Submission :Message: 
+
+2024-04-04 20:17:39,377 :CRITICAL :test_Verify_Valid_Form_Submission :Message: 
+
+2024-04-04 20:25:24,245 :CRITICAL :test_Verify_Valid_Form_Submission :Message: 
+
+2024-04-04 20:28:04,130 :CRITICAL :test_Verify_Valid_Form_Submission :Message: 
+
+2024-04-04 20:29:59,323 :CRITICAL :test_Verify_Valid_Form_Submission :Message: 
+
+2024-04-04 21:14:57,246 :CRITICAL :test_Verify_Valid_Form_Submission :Message: Given css selector expression "auth - country - picker - container" is invalid: SyntaxError: Document.querySelectorAll: 'auth - country - picker - container' is not a valid selector; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:192:5
+InvalidSelectorError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:431:5
+find_@chrome://remote/content/shared/DOM.sys.mjs:170:11
+
+2024-04-04 21:16:45,676 :CRITICAL :test_Verify_Valid_Form_Submission :Message: 
+
+2024-04-04 21:21:05,451 :CRITICAL :test_Verify_Valid_Form_Submission :'list' object has no attribute 'click'
+2024-04-04 21:23:19,417 :CRITICAL :test_Verify_Valid_Form_Submission :Message: Element <input id="continue" class="a-button-input" type="submit"> is not clickable at point (683,476) because another element <a id="auth-country-picker_95" class="a-dropdown-link" href="javascript:void(0)"> obscures it
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:192:5
+ElementClickInterceptedError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:336:5
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:176:11
+interaction.clickElement@chrome://remote/content/marionette/interaction.sys.mjs:135:11
+clickElement@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:204:29
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:84:31
+
+2024-04-04 21:41:05,878 :CRITICAL :test_Verify_Valid_Form_Submission :object of type 'NoneType' has no len()
+2024-04-04 21:48:57,806 :ERROR :test_SignUpForm :Actual Result does not have Registration
+assert 'Registration' in 'Amazon.in'
+2024-04-04 21:49:03,230 :CRITICAL :test_VerifyEmptyFormValidation :Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF71D87AD22+56930]
+	(No symbol) [0x00007FF71D7EF622]
+	(No symbol) [0x00007FF71D6A42E5]
+	(No symbol) [0x00007FF71D6E98ED]
+	(No symbol) [0x00007FF71D6E9A2C]
+	(No symbol) [0x00007FF71D72A967]
+	(No symbol) [0x00007FF71D70BCDF]
+	(No symbol) [0x00007FF71D7281E2]
+	(No symbol) [0x00007FF71D70BA43]
+	(No symbol) [0x00007FF71D6DD438]
+	(No symbol) [0x00007FF71D6DE4D1]
+	GetHandleVerifier [0x00007FF71DBF6AAD+3709933]
+	GetHandleVerifier [0x00007FF71DC4FFED+4075821]
+	GetHandleVerifier [0x00007FF71DC4817F+4043455]
+	GetHandleVerifier [0x00007FF71D919756+706710]
+	(No symbol) [0x00007FF71D7FB8FF]
+	(No symbol) [0x00007FF71D7F6AE4]
+	(No symbol) [0x00007FF71D7F6C3C]
+	(No symbol) [0x00007FF71D7E68F4]
+	BaseThreadInitThunk [0x00007FFD1EAB257D+29]
+	RtlUserThreadStart [0x00007FFD1FB2AA58+40]
+
+2024-04-04 21:49:08,652 :CRITICAL :test_Verify_Valid_Form_Submission :Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF71D87AD22+56930]
+	(No symbol) [0x00007FF71D7EF622]
+	(No symbol) [0x00007FF71D6A42E5]
+	(No symbol) [0x00007FF71D6E98ED]
+	(No symbol) [0x00007FF71D6E9A2C]
+	(No symbol) [0x00007FF71D72A967]
+	(No symbol) [0x00007FF71D70BCDF]
+	(No symbol) [0x00007FF71D7281E2]
+	(No symbol) [0x00007FF71D70BA43]
+	(No symbol) [0x00007FF71D6DD438]
+	(No symbol) [0x00007FF71D6DE4D1]
+	GetHandleVerifier [0x00007FF71DBF6AAD+3709933]
+	GetHandleVerifier [0x00007FF71DC4FFED+4075821]
+	GetHandleVerifier [0x00007FF71DC4817F+4043455]
+	GetHandleVerifier [0x00007FF71D919756+706710]
+	(No symbol) [0x00007FF71D7FB8FF]
+	(No symbol) [0x00007FF71D7F6AE4]
+	(No symbol) [0x00007FF71D7F6C3C]
+	(No symbol) [0x00007FF71D7E68F4]
+	BaseThreadInitThunk [0x00007FFD1EAB257D+29]
+	RtlUserThreadStart [0x00007FFD1FB2AA58+40]
+
+2024-04-04 21:55:33,085 :CRITICAL :test_Verify_Valid_Form_Submission :name 'SignUpPg' is not defined
+2024-04-04 22:07:34,320 :CRITICAL :test_VerifyEmptyFormValidation :'NoneType' object has no attribute 'click'
+2024-04-04 23:37:58,972 :ERROR :test_SignUpForm :'NoneType' object has no attribute 'click'
+2024-04-04 23:38:01,532 :CRITICAL :test_Verify_Valid_Form_Submission :'NoneType' object has no attribute 'send_keys'
+2024-04-04 23:44:27,650 :ERROR :test_SignUpForm :'Test_SignUp' object has no attribute 'click_button_element'
+2024-04-04 23:44:33,189 :CRITICAL :test_VerifyEmptyFormValidation :Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B650AD22+56930]
+	(No symbol) [0x00007FF7B647F622]
+	(No symbol) [0x00007FF7B63342E5]
+	(No symbol) [0x00007FF7B63798ED]
+	(No symbol) [0x00007FF7B6379A2C]
+	(No symbol) [0x00007FF7B63BA967]
+	(No symbol) [0x00007FF7B639BCDF]
+	(No symbol) [0x00007FF7B63B81E2]
+	(No symbol) [0x00007FF7B639BA43]
+	(No symbol) [0x00007FF7B636D438]
+	(No symbol) [0x00007FF7B636E4D1]
+	GetHandleVerifier [0x00007FF7B6886AAD+3709933]
+	GetHandleVerifier [0x00007FF7B68DFFED+4075821]
+	GetHandleVerifier [0x00007FF7B68D817F+4043455]
+	GetHandleVerifier [0x00007FF7B65A9756+706710]
+	(No symbol) [0x00007FF7B648B8FF]
+	(No symbol) [0x00007FF7B6486AE4]
+	(No symbol) [0x00007FF7B6486C3C]
+	(No symbol) [0x00007FF7B64768F4]
+	BaseThreadInitThunk [0x00007FFD1EAB257D+29]
+	RtlUserThreadStart [0x00007FFD1FB2AA58+40]
+
+2024-04-04 23:44:39,374 :CRITICAL :test_Verify_Valid_Form_Submission :Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7B650AD22+56930]
+	(No symbol) [0x00007FF7B647F622]
+	(No symbol) [0x00007FF7B63342E5]
+	(No symbol) [0x00007FF7B63798ED]
+	(No symbol) [0x00007FF7B6379A2C]
+	(No symbol) [0x00007FF7B63BA967]
+	(No symbol) [0x00007FF7B639BCDF]
+	(No symbol) [0x00007FF7B63B81E2]
+	(No symbol) [0x00007FF7B639BA43]
+	(No symbol) [0x00007FF7B636D438]
+	(No symbol) [0x00007FF7B636E4D1]
+	GetHandleVerifier [0x00007FF7B6886AAD+3709933]
+	GetHandleVerifier [0x00007FF7B68DFFED+4075821]
+	GetHandleVerifier [0x00007FF7B68D817F+4043455]
+	GetHandleVerifier [0x00007FF7B65A9756+706710]
+	(No symbol) [0x00007FF7B648B8FF]
+	(No symbol) [0x00007FF7B6486AE4]
+	(No symbol) [0x00007FF7B6486C3C]
+	(No symbol) [0x00007FF7B64768F4]
+	BaseThreadInitThunk [0x00007FFD1EAB257D+29]
+	RtlUserThreadStart [0x00007FFD1FB2AA58+40]
+
+2024-04-05 20:24:52,895 :ERROR :test_SignUpForm :Timeout waiting for element: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF69938AD22+56930]
+	(No symbol) [0x00007FF6992FF622]
+	(No symbol) [0x00007FF6991B42E5]
+	(No symbol) [0x00007FF6991F98ED]
+	(No symbol) [0x00007FF6991F9A2C]
+	(No symbol) [0x00007FF69923A967]
+	(No symbol) [0x00007FF69921BCDF]
+	(No symbol) [0x00007FF6992381E2]
+	(No symbol) [0x00007FF69921BA43]
+	(No symbol) [0x00007FF6991ED438]
+	(No symbol) [0x00007FF6991EE4D1]
+	GetHandleVerifier [0x00007FF699706AAD+3709933]
+	GetHandleVerifier [0x00007FF69975FFED+4075821]
+	GetHandleVerifier [0x00007FF69975817F+4043455]
+	GetHandleVerifier [0x00007FF699429756+706710]
+	(No symbol) [0x00007FF69930B8FF]
+	(No symbol) [0x00007FF699306AE4]
+	(No symbol) [0x00007FF699306C3C]
+	(No symbol) [0x00007FF6992F68F4]
+	BaseThreadInitThunk [0x00007FFD1EAB257D+29]
+	RtlUserThreadStart [0x00007FFD1FB2AA58+40]
+
+2024-04-05 20:24:58,890 :CRITICAL :test_VerifyEmptyFormValidation :Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF69938AD22+56930]
+	(No symbol) [0x00007FF6992FF622]
+	(No symbol) [0x00007FF6991B42E5]
+	(No symbol) [0x00007FF6991F98ED]
+	(No symbol) [0x00007FF6991F9A2C]
+	(No symbol) [0x00007FF69923A967]
+	(No symbol) [0x00007FF69921BCDF]
+	(No symbol) [0x00007FF6992381E2]
+	(No symbol) [0x00007FF69921BA43]
+	(No symbol) [0x00007FF6991ED438]
+	(No symbol) [0x00007FF6991EE4D1]
+	GetHandleVerifier [0x00007FF699706AAD+3709933]
+	GetHandleVerifier [0x00007FF69975FFED+4075821]
+	GetHandleVerifier [0x00007FF69975817F+4043455]
+	GetHandleVerifier [0x00007FF699429756+706710]
+	(No symbol) [0x00007FF69930B8FF]
+	(No symbol) [0x00007FF699306AE4]
+	(No symbol) [0x00007FF699306C3C]
+	(No symbol) [0x00007FF6992F68F4]
+	BaseThreadInitThunk [0x00007FFD1EAB257D+29]
+	RtlUserThreadStart [0x00007FFD1FB2AA58+40]
+
+2024-04-05 20:25:04,515 :CRITICAL :test_Verify_Valid_Form_Submission :Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF69938AD22+56930]
+	(No symbol) [0x00007FF6992FF622]
+	(No symbol) [0x00007FF6991B42E5]
+	(No symbol) [0x00007FF6991F98ED]
+	(No symbol) [0x00007FF6991F9A2C]
+	(No symbol) [0x00007FF69923A967]
+	(No symbol) [0x00007FF69921BCDF]
+	(No symbol) [0x00007FF6992381E2]
+	(No symbol) [0x00007FF69921BA43]
+	(No symbol) [0x00007FF6991ED438]
+	(No symbol) [0x00007FF6991EE4D1]
+	GetHandleVerifier [0x00007FF699706AAD+3709933]
+	GetHandleVerifier [0x00007FF69975FFED+4075821]
+	GetHandleVerifier [0x00007FF69975817F+4043455]
+	GetHandleVerifier [0x00007FF699429756+706710]
+	(No symbol) [0x00007FF69930B8FF]
+	(No symbol) [0x00007FF699306AE4]
+	(No symbol) [0x00007FF699306C3C]
+	(No symbol) [0x00007FF6992F68F4]
+	BaseThreadInitThunk [0x00007FFD1EAB257D+29]
+	RtlUserThreadStart [0x00007FFD1FB2AA58+40]
+
+2024-04-06 12:36:38,368 :CRITICAL :test_Verify_Valid_Form_Submission :Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6AB21AD22+56930]
+	(No symbol) [0x00007FF6AB18F622]
+	(No symbol) [0x00007FF6AB0442E5]
+	(No symbol) [0x00007FF6AB0898ED]
+	(No symbol) [0x00007FF6AB089A2C]
+	(No symbol) [0x00007FF6AB0CA967]
+	(No symbol) [0x00007FF6AB0ABCDF]
+	(No symbol) [0x00007FF6AB0C81E2]
+	(No symbol) [0x00007FF6AB0ABA43]
+	(No symbol) [0x00007FF6AB07D438]
+	(No symbol) [0x00007FF6AB07E4D1]
+	GetHandleVerifier [0x00007FF6AB596AAD+3709933]
+	GetHandleVerifier [0x00007FF6AB5EFFED+4075821]
+	GetHandleVerifier [0x00007FF6AB5E817F+4043455]
+	GetHandleVerifier [0x00007FF6AB2B9756+706710]
+	(No symbol) [0x00007FF6AB19B8FF]
+	(No symbol) [0x00007FF6AB196AE4]
+	(No symbol) [0x00007FF6AB196C3C]
+	(No symbol) [0x00007FF6AB1868F4]
+	BaseThreadInitThunk [0x00007FFD1EAB257D+29]
+	RtlUserThreadStart [0x00007FFD1FB2AA58+40]
+
+2024-04-07 23:01:31,136 :CRITICAL :test_VerifyEmptyFormValidation :Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7347BB812+63538]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF73473F692+238274]
+	(No symbol) [0x00007FF734573407]
+	(No symbol) [0x00007FF7345B97ED]
+	(No symbol) [0x00007FF7345B98B0]
+	(No symbol) [0x00007FF7345F4387]
+	(No symbol) [0x00007FF7345D8E5F]
+	(No symbol) [0x00007FF7345AF037]
+	(No symbol) [0x00007FF7345F1F49]
+	(No symbol) [0x00007FF7345D8A83]
+	(No symbol) [0x00007FF7345AE55E]
+	(No symbol) [0x00007FF7345AD71C]
+	(No symbol) [0x00007FF7345AE111]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF734991CFC+1102764]
+	(No symbol) [0x00007FF7346225F6]
+	(No symbol) [0x00007FF7346B3DAC]
+	(No symbol) [0x00007FF7346ABDA8]
+	Microsoft::Applications::Events::EventProperty::to_string [0x00007FF734990C45+1098485]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF734749E51+281217]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF7347445D4+258564]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF73474470F+258879]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00007FF734738EE1+211729]
+	BaseThreadInitThunk [0x00007FFD1EAB257D+29]
+	RtlUserThreadStart [0x00007FFD1FB2AA58+40]
+
+2024-04-08 12:43:46,321 :ERROR :test_verifySearchProducts :Message: stale element reference: stale element not found
+  (Session info: chrome=123.0.6312.106); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF79060AD22+56930]
+	(No symbol) [0x00007FF79057F622]
+	(No symbol) [0x00007FF7904342E5]
+	(No symbol) [0x00007FF790443EB1]
+	(No symbol) [0x00007FF790439FB4]
+	(No symbol) [0x00007FF79043A139]
+	(No symbol) [0x00007FF79043827A]
+	(No symbol) [0x00007FF79043B9FD]
+	(No symbol) [0x00007FF7904B8E57]
+	(No symbol) [0x00007FF79049BC9A]
+	(No symbol) [0x00007FF7904B81E2]
+	(No symbol) [0x00007FF79049BA43]
+	(No symbol) [0x00007FF79046D438]
+	(No symbol) [0x00007FF79046E4D1]
+	GetHandleVerifier [0x00007FF790986AAD+3709933]
+	GetHandleVerifier [0x00007FF7909DFFED+4075821]
+	GetHandleVerifier [0x00007FF7909D817F+4043455]
+	GetHandleVerifier [0x00007FF7906A9756+706710]
+	(No symbol) [0x00007FF79058B8FF]
+	(No symbol) [0x00007FF790586AE4]
+	(No symbol) [0x00007FF790586C3C]
+	(No symbol) [0x00007FF7905768F4]
+	BaseThreadInitThunk [0x00007FFD1EAB257D+29]
+	RtlUserThreadStart [0x00007FFD1FB2AA58+40]
+
+2024-04-08 12:45:15,832 :ERROR :test_verifySearchProducts :Message: stale element reference: stale element not found
+  (Session info: chrome=123.0.6312.106); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF79060AD22+56930]
+	(No symbol) [0x00007FF79057F622]
+	(No symbol) [0x00007FF7904342E5]
+	(No symbol) [0x00007FF790443EB1]
+	(No symbol) [0x00007FF790439FB4]
+	(No symbol) [0x00007FF79043A139]
+	(No symbol) [0x00007FF79043827A]
+	(No symbol) [0x00007FF79043B9FD]
+	(No symbol) [0x00007FF7904B8E57]
+	(No symbol) [0x00007FF79049BC9A]
+	(No symbol) [0x00007FF7904B81E2]
+	(No symbol) [0x00007FF79049BA43]
+	(No symbol) [0x00007FF79046D438]
+	(No symbol) [0x00007FF79046E4D1]
+	GetHandleVerifier [0x00007FF790986AAD+3709933]
+	GetHandleVerifier [0x00007FF7909DFFED+4075821]
+	GetHandleVerifier [0x00007FF7909D817F+4043455]
+	GetHandleVerifier [0x00007FF7906A9756+706710]
+	(No symbol) [0x00007FF79058B8FF]
+	(No symbol) [0x00007FF790586AE4]
+	(No symbol) [0x00007FF790586C3C]
+	(No symbol) [0x00007FF7905768F4]
+	BaseThreadInitThunk [0x00007FFD1EAB257D+29]
+	RtlUserThreadStart [0x00007FFD1FB2AA58+40]
+
+2024-04-08 12:48:36,695 :ERROR :test_verifySearchProducts :Message: stale element reference: stale element not found
+  (Session info: chrome=123.0.6312.106); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF79060AD22+56930]
+	(No symbol) [0x00007FF79057F622]
+	(No symbol) [0x00007FF7904342E5]
+	(No symbol) [0x00007FF790443EB1]
+	(No symbol) [0x00007FF790439FB4]
+	(No symbol) [0x00007FF79043A139]
+	(No symbol) [0x00007FF79043827A]
+	(No symbol) [0x00007FF79043B9FD]
+	(No symbol) [0x00007FF7904B8E57]
+	(No symbol) [0x00007FF79049BC9A]
+	(No symbol) [0x00007FF7904B81E2]
+	(No symbol) [0x00007FF79049BA43]
+	(No symbol) [0x00007FF79046D438]
+	(No symbol) [0x00007FF79046E4D1]
+	GetHandleVerifier [0x00007FF790986AAD+3709933]
+	GetHandleVerifier [0x00007FF7909DFFED+4075821]
+	GetHandleVerifier [0x00007FF7909D817F+4043455]
+	GetHandleVerifier [0x00007FF7906A9756+706710]
+	(No symbol) [0x00007FF79058B8FF]
+	(No symbol) [0x00007FF790586AE4]
+	(No symbol) [0x00007FF790586C3C]
+	(No symbol) [0x00007FF7905768F4]
+	BaseThreadInitThunk [0x00007FFD1EAB257D+29]
+	RtlUserThreadStart [0x00007FFD1FB2AA58+40]
+
+2024-04-08 12:52:22,005 :ERROR :test_verifySearchProducts :Message: stale element reference: stale element not found
+  (Session info: chrome=123.0.6312.106); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF79060AD22+56930]
+	(No symbol) [0x00007FF79057F622]
+	(No symbol) [0x00007FF7904342E5]
+	(No symbol) [0x00007FF790443EB1]
+	(No symbol) [0x00007FF790439FB4]
+	(No symbol) [0x00007FF79043A139]
+	(No symbol) [0x00007FF79043827A]
+	(No symbol) [0x00007FF79043B9FD]
+	(No symbol) [0x00007FF7904B8E57]
+	(No symbol) [0x00007FF79049BC9A]
+	(No symbol) [0x00007FF7904B81E2]
+	(No symbol) [0x00007FF79049BA43]
+	(No symbol) [0x00007FF79046D438]
+	(No symbol) [0x00007FF79046E4D1]
+	GetHandleVerifier [0x00007FF790986AAD+3709933]
+	GetHandleVerifier [0x00007FF7909DFFED+4075821]
+	GetHandleVerifier [0x00007FF7909D817F+4043455]
+	GetHandleVerifier [0x00007FF7906A9756+706710]
+	(No symbol) [0x00007FF79058B8FF]
+	(No symbol) [0x00007FF790586AE4]
+	(No symbol) [0x00007FF790586C3C]
+	(No symbol) [0x00007FF7905768F4]
+	BaseThreadInitThunk [0x00007FFD1EAB257D+29]
+	RtlUserThreadStart [0x00007FFD1FB2AA58+40]
+
+2024-04-08 12:53:07,441 :ERROR :test_verifySearchProducts :Message: stale element reference: stale element not found
+  (Session info: chrome=123.0.6312.106); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF79060AD22+56930]
+	(No symbol) [0x00007FF79057F622]
+	(No symbol) [0x00007FF7904342E5]
+	(No symbol) [0x00007FF790443EB1]
+	(No symbol) [0x00007FF790439FB4]
+	(No symbol) [0x00007FF79043A139]
+	(No symbol) [0x00007FF79043827A]
+	(No symbol) [0x00007FF79043B9FD]
+	(No symbol) [0x00007FF7904B8E57]
+	(No symbol) [0x00007FF79049BC9A]
+	(No symbol) [0x00007FF7904B81E2]
+	(No symbol) [0x00007FF79049BA43]
+	(No symbol) [0x00007FF79046D438]
+	(No symbol) [0x00007FF79046E4D1]
+	GetHandleVerifier [0x00007FF790986AAD+3709933]
+	GetHandleVerifier [0x00007FF7909DFFED+4075821]
+	GetHandleVerifier [0x00007FF7909D817F+4043455]
+	GetHandleVerifier [0x00007FF7906A9756+706710]
+	(No symbol) [0x00007FF79058B8FF]
+	(No symbol) [0x00007FF790586AE4]
+	(No symbol) [0x00007FF790586C3C]
+	(No symbol) [0x00007FF7905768F4]
+	BaseThreadInitThunk [0x00007FFD1EAB257D+29]
+	RtlUserThreadStart [0x00007FFD1FB2AA58+40]
+
+2024-04-08 12:53:40,446 :ERROR :test_verifySearchProducts :cannot pickle '_thread.lock' object
+2024-04-08 13:08:34,942 :ERROR :test_verifySearchProducts :Message: stale element reference: stale element not found
+  (Session info: chrome=123.0.6312.106); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF79060AD22+56930]
+	(No symbol) [0x00007FF79057F622]
+	(No symbol) [0x00007FF7904342E5]
+	(No symbol) [0x00007FF790443EB1]
+	(No symbol) [0x00007FF790439FB4]
+	(No symbol) [0x00007FF79043A139]
+	(No symbol) [0x00007FF79043827A]
+	(No symbol) [0x00007FF79043B9FD]
+	(No symbol) [0x00007FF7904B8E57]
+	(No symbol) [0x00007FF79049BC9A]
+	(No symbol) [0x00007FF7904B81E2]
+	(No symbol) [0x00007FF79049BA43]
+	(No symbol) [0x00007FF79046D438]
+	(No symbol) [0x00007FF79046E4D1]
+	GetHandleVerifier [0x00007FF790986AAD+3709933]
+	GetHandleVerifier [0x00007FF7909DFFED+4075821]
+	GetHandleVerifier [0x00007FF7909D817F+4043455]
+	GetHandleVerifier [0x00007FF7906A9756+706710]
+	(No symbol) [0x00007FF79058B8FF]
+	(No symbol) [0x00007FF790586AE4]
+	(No symbol) [0x00007FF790586C3C]
+	(No symbol) [0x00007FF7905768F4]
+	BaseThreadInitThunk [0x00007FFD1EAB257D+29]
+	RtlUserThreadStart [0x00007FFD1FB2AA58+40]
+
+2024-04-08 13:58:13,115 :ERROR :test_verifySearchProducts :Message: The element with the reference 8e85978f-c055-414b-adfb-6595fad2d974 is stale; either its node document is not the active document, or it is no longer connected to the DOM; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:192:5
+StaleElementReferenceError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:724:5
+getKnownElement@chrome://remote/content/marionette/json.sys.mjs:401:11
+deserializeJSON@chrome://remote/content/marionette/json.sys.mjs:259:20
+cloneObject/result<@chrome://remote/content/marionette/json.sys.mjs:53:52
+cloneObject@chrome://remote/content/marionette/json.sys.mjs:53:25
+deserializeJSON@chrome://remote/content/marionette/json.sys.mjs:289:16
+cloneObject@chrome://remote/content/marionette/json.sys.mjs:59:24
+deserializeJSON@chrome://remote/content/marionette/json.sys.mjs:289:16
+json.deserialize@chrome://remote/content/marionette/json.sys.mjs:293:10
+receiveMessage@chrome://remote/content/marionette/actors/MarionetteCommandsChild.sys.mjs:72:30
+
+2024-04-09 19:33:00,784 :ERROR :test_verifySearchProducts :Message: stale element reference: stale element not found
+  (Session info: chrome=123.0.6312.106); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6FE3CAD22+56930]
+	(No symbol) [0x00007FF6FE33F622]
+	(No symbol) [0x00007FF6FE1F42E5]
+	(No symbol) [0x00007FF6FE203EB1]
+	(No symbol) [0x00007FF6FE1F9FB4]
+	(No symbol) [0x00007FF6FE1FA139]
+	(No symbol) [0x00007FF6FE1F827A]
+	(No symbol) [0x00007FF6FE1FB9FD]
+	(No symbol) [0x00007FF6FE278E57]
+	(No symbol) [0x00007FF6FE25BC9A]
+	(No symbol) [0x00007FF6FE2781E2]
+	(No symbol) [0x00007FF6FE25BA43]
+	(No symbol) [0x00007FF6FE22D438]
+	(No symbol) [0x00007FF6FE22E4D1]
+	GetHandleVerifier [0x00007FF6FE746AAD+3709933]
+	GetHandleVerifier [0x00007FF6FE79FFED+4075821]
+	GetHandleVerifier [0x00007FF6FE79817F+4043455]
+	GetHandleVerifier [0x00007FF6FE469756+706710]
+	(No symbol) [0x00007FF6FE34B8FF]
+	(No symbol) [0x00007FF6FE346AE4]
+	(No symbol) [0x00007FF6FE346C3C]
+	(No symbol) [0x00007FF6FE3368F4]
+	BaseThreadInitThunk [0x00007FFD1EAB257D+29]
+	RtlUserThreadStart [0x00007FFD1FB2AA58+40]
+
+2024-04-15 11:42:41,848 :CRITICAL :test_Verify_Valid_Form_Submission :Message: element click intercepted: Element <input id="continue" tabindex="9" class="a-button-input" type="submit" aria-labelledby="auth-continue-announce"> is not clickable at point (508, 434). Other element would receive the click: <a tabindex="-1" href="javascript:void(0)" data-value="{&quot;stringVal&quot;:&quot;IQ&quot;}" id="auth-country-picker_95" class="a-dropdown-link">...</a>
+  (Session info: chrome=123.0.6312.106)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6154AAD22+56930]
+	(No symbol) [0x00007FF61541F622]
+	(No symbol) [0x00007FF6152D42E5]
+	(No symbol) [0x00007FF615320A80]
+	(No symbol) [0x00007FF61531E8AB]
+	(No symbol) [0x00007FF61531C0B4]
+	(No symbol) [0x00007FF61531AE45]
+	(No symbol) [0x00007FF61530F798]
+	(No symbol) [0x00007FF61533BC9A]
+	(No symbol) [0x00007FF61530F09A]
+	(No symbol) [0x00007FF61533BEB0]
+	(No symbol) [0x00007FF6153581E2]
+	(No symbol) [0x00007FF61533BA43]
+	(No symbol) [0x00007FF61530D438]
+	(No symbol) [0x00007FF61530E4D1]
+	GetHandleVerifier [0x00007FF615826AAD+3709933]
+	GetHandleVerifier [0x00007FF61587FFED+4075821]
+	GetHandleVerifier [0x00007FF61587817F+4043455]
+	GetHandleVerifier [0x00007FF615549756+706710]
+	(No symbol) [0x00007FF61542B8FF]
+	(No symbol) [0x00007FF615426AE4]
+	(No symbol) [0x00007FF615426C3C]
+	(No symbol) [0x00007FF6154168F4]
+	BaseThreadInitThunk [0x00007FFD1EAB257D+29]
+	RtlUserThreadStart [0x00007FFD1FB2AA58+40]
+
+2024-04-15 11:43:24,981 :CRITICAL :test_Verify_Valid_Form_Submission :Message: element click intercepted: Element <input id="continue" tabindex="9" class="a-button-input" type="submit" aria-labelledby="auth-continue-announce"> is not clickable at point (508, 434). Other element would receive the click: <a tabindex="-1" href="javascript:void(0)" data-value="{&quot;stringVal&quot;:&quot;IQ&quot;}" id="auth-country-picker_95" class="a-dropdown-link">...</a>
+  (Session info: chrome=123.0.6312.106)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6154AAD22+56930]
+	(No symbol) [0x00007FF61541F622]
+	(No symbol) [0x00007FF6152D42E5]
+	(No symbol) [0x00007FF615320A80]
+	(No symbol) [0x00007FF61531E8AB]
+	(No symbol) [0x00007FF61531C0B4]
+	(No symbol) [0x00007FF61531AE45]
+	(No symbol) [0x00007FF61530F798]
+	(No symbol) [0x00007FF61533BC9A]
+	(No symbol) [0x00007FF61530F09A]
+	(No symbol) [0x00007FF61533BEB0]
+	(No symbol) [0x00007FF6153581E2]
+	(No symbol) [0x00007FF61533BA43]
+	(No symbol) [0x00007FF61530D438]
+	(No symbol) [0x00007FF61530E4D1]
+	GetHandleVerifier [0x00007FF615826AAD+3709933]
+	GetHandleVerifier [0x00007FF61587FFED+4075821]
+	GetHandleVerifier [0x00007FF61587817F+4043455]
+	GetHandleVerifier [0x00007FF615549756+706710]
+	(No symbol) [0x00007FF61542B8FF]
+	(No symbol) [0x00007FF615426AE4]
+	(No symbol) [0x00007FF615426C3C]
+	(No symbol) [0x00007FF6154168F4]
+	BaseThreadInitThunk [0x00007FFD1EAB257D+29]
+	RtlUserThreadStart [0x00007FFD1FB2AA58+40]
+
+2024-04-15 11:43:24,981 :CRITICAL :test_Verify_Valid_Form_Submission :Message: element click intercepted: Element <input id="continue" tabindex="9" class="a-button-input" type="submit" aria-labelledby="auth-continue-announce"> is not clickable at point (508, 434). Other element would receive the click: <a tabindex="-1" href="javascript:void(0)" data-value="{&quot;stringVal&quot;:&quot;IQ&quot;}" id="auth-country-picker_95" class="a-dropdown-link">...</a>
+  (Session info: chrome=123.0.6312.106)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6154AAD22+56930]
+	(No symbol) [0x00007FF61541F622]
+	(No symbol) [0x00007FF6152D42E5]
+	(No symbol) [0x00007FF615320A80]
+	(No symbol) [0x00007FF61531E8AB]
+	(No symbol) [0x00007FF61531C0B4]
+	(No symbol) [0x00007FF61531AE45]
+	(No symbol) [0x00007FF61530F798]
+	(No symbol) [0x00007FF61533BC9A]
+	(No symbol) [0x00007FF61530F09A]
+	(No symbol) [0x00007FF61533BEB0]
+	(No symbol) [0x00007FF6153581E2]
+	(No symbol) [0x00007FF61533BA43]
+	(No symbol) [0x00007FF61530D438]
+	(No symbol) [0x00007FF61530E4D1]
+	GetHandleVerifier [0x00007FF615826AAD+3709933]
+	GetHandleVerifier [0x00007FF61587FFED+4075821]
+	GetHandleVerifier [0x00007FF61587817F+4043455]
+	GetHandleVerifier [0x00007FF615549756+706710]
+	(No symbol) [0x00007FF61542B8FF]
+	(No symbol) [0x00007FF615426AE4]
+	(No symbol) [0x00007FF615426C3C]
+	(No symbol) [0x00007FF6154168F4]
+	BaseThreadInitThunk [0x00007FFD1EAB257D+29]
+	RtlUserThreadStart [0x00007FFD1FB2AA58+40]
+
+2024-04-15 11:45:41,457 :CRITICAL :test_Verify_Valid_Form_Submission :Message: element click intercepted: Element <input id="continue" tabindex="9" class="a-button-input" type="submit" aria-labelledby="auth-continue-announce"> is not clickable at point (508, 434). Other element would receive the click: <a tabindex="-1" href="javascript:void(0)" data-value="{&quot;stringVal&quot;:&quot;IQ&quot;}" id="auth-country-picker_95" class="a-dropdown-link">...</a>
+  (Session info: chrome=123.0.6312.106)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6154AAD22+56930]
+	(No symbol) [0x00007FF61541F622]
+	(No symbol) [0x00007FF6152D42E5]
+	(No symbol) [0x00007FF615320A80]
+	(No symbol) [0x00007FF61531E8AB]
+	(No symbol) [0x00007FF61531C0B4]
+	(No symbol) [0x00007FF61531AE45]
+	(No symbol) [0x00007FF61530F798]
+	(No symbol) [0x00007FF61533BC9A]
+	(No symbol) [0x00007FF61530F09A]
+	(No symbol) [0x00007FF61533BEB0]
+	(No symbol) [0x00007FF6153581E2]
+	(No symbol) [0x00007FF61533BA43]
+	(No symbol) [0x00007FF61530D438]
+	(No symbol) [0x00007FF61530E4D1]
+	GetHandleVerifier [0x00007FF615826AAD+3709933]
+	GetHandleVerifier [0x00007FF61587FFED+4075821]
+	GetHandleVerifier [0x00007FF61587817F+4043455]
+	GetHandleVerifier [0x00007FF615549756+706710]
+	(No symbol) [0x00007FF61542B8FF]
+	(No symbol) [0x00007FF615426AE4]
+	(No symbol) [0x00007FF615426C3C]
+	(No symbol) [0x00007FF6154168F4]
+	BaseThreadInitThunk [0x00007FFD1EAB257D+29]
+	RtlUserThreadStart [0x00007FFD1FB2AA58+40]
+
+2024-04-15 11:49:50,559 :CRITICAL :test_Verify_Valid_Form_Submission :Message: element click intercepted: Element <input id="continue" tabindex="9" class="a-button-input" type="submit" aria-labelledby="auth-continue-announce"> is not clickable at point (508, 434). Other element would receive the click: <a tabindex="-1" href="javascript:void(0)" data-value="{&quot;stringVal&quot;:&quot;IQ&quot;}" id="auth-country-picker_95" class="a-dropdown-link">...</a>
+  (Session info: chrome=123.0.6312.106)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6154AAD22+56930]
+	(No symbol) [0x00007FF61541F622]
+	(No symbol) [0x00007FF6152D42E5]
+	(No symbol) [0x00007FF615320A80]
+	(No symbol) [0x00007FF61531E8AB]
+	(No symbol) [0x00007FF61531C0B4]
+	(No symbol) [0x00007FF61531AE45]
+	(No symbol) [0x00007FF61530F798]
+	(No symbol) [0x00007FF61533BC9A]
+	(No symbol) [0x00007FF61530F09A]
+	(No symbol) [0x00007FF61533BEB0]
+	(No symbol) [0x00007FF6153581E2]
+	(No symbol) [0x00007FF61533BA43]
+	(No symbol) [0x00007FF61530D438]
+	(No symbol) [0x00007FF61530E4D1]
+	GetHandleVerifier [0x00007FF615826AAD+3709933]
+	GetHandleVerifier [0x00007FF61587FFED+4075821]
+	GetHandleVerifier [0x00007FF61587817F+4043455]
+	GetHandleVerifier [0x00007FF615549756+706710]
+	(No symbol) [0x00007FF61542B8FF]
+	(No symbol) [0x00007FF615426AE4]
+	(No symbol) [0x00007FF615426C3C]
+	(No symbol) [0x00007FF6154168F4]
+	BaseThreadInitThunk [0x00007FFD1EAB257D+29]
+	RtlUserThreadStart [0x00007FFD1FB2AA58+40]
+
+2024-04-15 12:02:02,890 :CRITICAL :test_VerifyEmptyFormValidation :Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6154AAD22+56930]
+	(No symbol) [0x00007FF61541F622]
+	(No symbol) [0x00007FF6152D42E5]
+	(No symbol) [0x00007FF6153198ED]
+	(No symbol) [0x00007FF615319A2C]
+	(No symbol) [0x00007FF61535A967]
+	(No symbol) [0x00007FF61533BCDF]
+	(No symbol) [0x00007FF6153581E2]
+	(No symbol) [0x00007FF61533BA43]
+	(No symbol) [0x00007FF61530D438]
+	(No symbol) [0x00007FF61530E4D1]
+	GetHandleVerifier [0x00007FF615826AAD+3709933]
+	GetHandleVerifier [0x00007FF61587FFED+4075821]
+	GetHandleVerifier [0x00007FF61587817F+4043455]
+	GetHandleVerifier [0x00007FF615549756+706710]
+	(No symbol) [0x00007FF61542B8FF]
+	(No symbol) [0x00007FF615426AE4]
+	(No symbol) [0x00007FF615426C3C]
+	(No symbol) [0x00007FF6154168F4]
+	BaseThreadInitThunk [0x00007FFD1EAB257D+29]
+	RtlUserThreadStart [0x00007FFD1FB2AA58+40]
+
+2024-04-15 12:02:08,578 :CRITICAL :test_Verify_Valid_Form_Submission :Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6154AAD22+56930]
+	(No symbol) [0x00007FF61541F622]
+	(No symbol) [0x00007FF6152D42E5]
+	(No symbol) [0x00007FF6153198ED]
+	(No symbol) [0x00007FF615319A2C]
+	(No symbol) [0x00007FF61535A967]
+	(No symbol) [0x00007FF61533BCDF]
+	(No symbol) [0x00007FF6153581E2]
+	(No symbol) [0x00007FF61533BA43]
+	(No symbol) [0x00007FF61530D438]
+	(No symbol) [0x00007FF61530E4D1]
+	GetHandleVerifier [0x00007FF615826AAD+3709933]
+	GetHandleVerifier [0x00007FF61587FFED+4075821]
+	GetHandleVerifier [0x00007FF61587817F+4043455]
+	GetHandleVerifier [0x00007FF615549756+706710]
+	(No symbol) [0x00007FF61542B8FF]
+	(No symbol) [0x00007FF615426AE4]
+	(No symbol) [0x00007FF615426C3C]
+	(No symbol) [0x00007FF6154168F4]
+	BaseThreadInitThunk [0x00007FFD1EAB257D+29]
+	RtlUserThreadStart [0x00007FFD1FB2AA58+40]
+
+2024-04-15 12:06:23,497 :CRITICAL :test_VerifyEmptyFormValidation :Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6154AAD22+56930]
+	(No symbol) [0x00007FF61541F622]
+	(No symbol) [0x00007FF6152D42E5]
+	(No symbol) [0x00007FF6153198ED]
+	(No symbol) [0x00007FF615319A2C]
+	(No symbol) [0x00007FF61535A967]
+	(No symbol) [0x00007FF61533BCDF]
+	(No symbol) [0x00007FF6153581E2]
+	(No symbol) [0x00007FF61533BA43]
+	(No symbol) [0x00007FF61530D438]
+	(No symbol) [0x00007FF61530E4D1]
+	GetHandleVerifier [0x00007FF615826AAD+3709933]
+	GetHandleVerifier [0x00007FF61587FFED+4075821]
+	GetHandleVerifier [0x00007FF61587817F+4043455]
+	GetHandleVerifier [0x00007FF615549756+706710]
+	(No symbol) [0x00007FF61542B8FF]
+	(No symbol) [0x00007FF615426AE4]
+	(No symbol) [0x00007FF615426C3C]
+	(No symbol) [0x00007FF6154168F4]
+	BaseThreadInitThunk [0x00007FFD1EAB257D+29]
+	RtlUserThreadStart [0x00007FFD1FB2AA58+40]
+
+2024-04-15 12:06:29,301 :CRITICAL :test_Verify_Valid_Form_Submission :Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6154AAD22+56930]
+	(No symbol) [0x00007FF61541F622]
+	(No symbol) [0x00007FF6152D42E5]
+	(No symbol) [0x00007FF6153198ED]
+	(No symbol) [0x00007FF615319A2C]
+	(No symbol) [0x00007FF61535A967]
+	(No symbol) [0x00007FF61533BCDF]
+	(No symbol) [0x00007FF6153581E2]
+	(No symbol) [0x00007FF61533BA43]
+	(No symbol) [0x00007FF61530D438]
+	(No symbol) [0x00007FF61530E4D1]
+	GetHandleVerifier [0x00007FF615826AAD+3709933]
+	GetHandleVerifier [0x00007FF61587FFED+4075821]
+	GetHandleVerifier [0x00007FF61587817F+4043455]
+	GetHandleVerifier [0x00007FF615549756+706710]
+	(No symbol) [0x00007FF61542B8FF]
+	(No symbol) [0x00007FF615426AE4]
+	(No symbol) [0x00007FF615426C3C]
+	(No symbol) [0x00007FF6154168F4]
+	BaseThreadInitThunk [0x00007FFD1EAB257D+29]
+	RtlUserThreadStart [0x00007FFD1FB2AA58+40]
+
+2024-04-15 12:08:37,045 :CRITICAL :test_VerifyEmptyFormValidation :Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6154AAD22+56930]
+	(No symbol) [0x00007FF61541F622]
+	(No symbol) [0x00007FF6152D42E5]
+	(No symbol) [0x00007FF6153198ED]
+	(No symbol) [0x00007FF615319A2C]
+	(No symbol) [0x00007FF61535A967]
+	(No symbol) [0x00007FF61533BCDF]
+	(No symbol) [0x00007FF6153581E2]
+	(No symbol) [0x00007FF61533BA43]
+	(No symbol) [0x00007FF61530D438]
+	(No symbol) [0x00007FF61530E4D1]
+	GetHandleVerifier [0x00007FF615826AAD+3709933]
+	GetHandleVerifier [0x00007FF61587FFED+4075821]
+	GetHandleVerifier [0x00007FF61587817F+4043455]
+	GetHandleVerifier [0x00007FF615549756+706710]
+	(No symbol) [0x00007FF61542B8FF]
+	(No symbol) [0x00007FF615426AE4]
+	(No symbol) [0x00007FF615426C3C]
+	(No symbol) [0x00007FF6154168F4]
+	BaseThreadInitThunk [0x00007FFD1EAB257D+29]
+	RtlUserThreadStart [0x00007FFD1FB2AA58+40]
+
+2024-04-15 12:08:42,663 :CRITICAL :test_Verify_Valid_Form_Submission :Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6154AAD22+56930]
+	(No symbol) [0x00007FF61541F622]
+	(No symbol) [0x00007FF6152D42E5]
+	(No symbol) [0x00007FF6153198ED]
+	(No symbol) [0x00007FF615319A2C]
+	(No symbol) [0x00007FF61535A967]
+	(No symbol) [0x00007FF61533BCDF]
+	(No symbol) [0x00007FF6153581E2]
+	(No symbol) [0x00007FF61533BA43]
+	(No symbol) [0x00007FF61530D438]
+	(No symbol) [0x00007FF61530E4D1]
+	GetHandleVerifier [0x00007FF615826AAD+3709933]
+	GetHandleVerifier [0x00007FF61587FFED+4075821]
+	GetHandleVerifier [0x00007FF61587817F+4043455]
+	GetHandleVerifier [0x00007FF615549756+706710]
+	(No symbol) [0x00007FF61542B8FF]
+	(No symbol) [0x00007FF615426AE4]
+	(No symbol) [0x00007FF615426C3C]
+	(No symbol) [0x00007FF6154168F4]
+	BaseThreadInitThunk [0x00007FFD1EAB257D+29]
+	RtlUserThreadStart [0x00007FFD1FB2AA58+40]
+
+2024-04-15 12:24:18,780 :CRITICAL :test_VerifyEmptyFormValidation :Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6154AAD22+56930]
+	(No symbol) [0x00007FF61541F622]
+	(No symbol) [0x00007FF6152D42E5]
+	(No symbol) [0x00007FF6153198ED]
+	(No symbol) [0x00007FF615319A2C]
+	(No symbol) [0x00007FF61535A967]
+	(No symbol) [0x00007FF61533BCDF]
+	(No symbol) [0x00007FF6153581E2]
+	(No symbol) [0x00007FF61533BA43]
+	(No symbol) [0x00007FF61530D438]
+	(No symbol) [0x00007FF61530E4D1]
+	GetHandleVerifier [0x00007FF615826AAD+3709933]
+	GetHandleVerifier [0x00007FF61587FFED+4075821]
+	GetHandleVerifier [0x00007FF61587817F+4043455]
+	GetHandleVerifier [0x00007FF615549756+706710]
+	(No symbol) [0x00007FF61542B8FF]
+	(No symbol) [0x00007FF615426AE4]
+	(No symbol) [0x00007FF615426C3C]
+	(No symbol) [0x00007FF6154168F4]
+	BaseThreadInitThunk [0x00007FFD1EAB257D+29]
+	RtlUserThreadStart [0x00007FFD1FB2AA58+40]
+
+2024-04-15 12:24:24,368 :CRITICAL :test_Verify_Valid_Form_Submission :Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF6154AAD22+56930]
+	(No symbol) [0x00007FF61541F622]
+	(No symbol) [0x00007FF6152D42E5]
+	(No symbol) [0x00007FF6153198ED]
+	(No symbol) [0x00007FF615319A2C]
+	(No symbol) [0x00007FF61535A967]
+	(No symbol) [0x00007FF61533BCDF]
+	(No symbol) [0x00007FF6153581E2]
+	(No symbol) [0x00007FF61533BA43]
+	(No symbol) [0x00007FF61530D438]
+	(No symbol) [0x00007FF61530E4D1]
+	GetHandleVerifier [0x00007FF615826AAD+3709933]
+	GetHandleVerifier [0x00007FF61587FFED+4075821]
+	GetHandleVerifier [0x00007FF61587817F+4043455]
+	GetHandleVerifier [0x00007FF615549756+706710]
+	(No symbol) [0x00007FF61542B8FF]
+	(No symbol) [0x00007FF615426AE4]
+	(No symbol) [0x00007FF615426C3C]
+	(No symbol) [0x00007FF6154168F4]
+	BaseThreadInitThunk [0x00007FFD1EAB257D+29]
+	RtlUserThreadStart [0x00007FFD1FB2AA58+40]
+
+2024-04-15 12:48:39,527 :CRITICAL :test_VerifyEmptyFormValidation :Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FA85AD22+56930]
+	(No symbol) [0x00007FF7FA7CF622]
+	(No symbol) [0x00007FF7FA6842E5]
+	(No symbol) [0x00007FF7FA6C98ED]
+	(No symbol) [0x00007FF7FA6C9A2C]
+	(No symbol) [0x00007FF7FA70A967]
+	(No symbol) [0x00007FF7FA6EBCDF]
+	(No symbol) [0x00007FF7FA7081E2]
+	(No symbol) [0x00007FF7FA6EBA43]
+	(No symbol) [0x00007FF7FA6BD438]
+	(No symbol) [0x00007FF7FA6BE4D1]
+	GetHandleVerifier [0x00007FF7FABD6AAD+3709933]
+	GetHandleVerifier [0x00007FF7FAC2FFED+4075821]
+	GetHandleVerifier [0x00007FF7FAC2817F+4043455]
+	GetHandleVerifier [0x00007FF7FA8F9756+706710]
+	(No symbol) [0x00007FF7FA7DB8FF]
+	(No symbol) [0x00007FF7FA7D6AE4]
+	(No symbol) [0x00007FF7FA7D6C3C]
+	(No symbol) [0x00007FF7FA7C68F4]
+	BaseThreadInitThunk [0x00007FFD1EAB257D+29]
+	RtlUserThreadStart [0x00007FFD1FB2AA58+40]
+
+2024-04-15 12:48:45,194 :CRITICAL :test_Verify_Valid_Form_Submission :Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FA85AD22+56930]
+	(No symbol) [0x00007FF7FA7CF622]
+	(No symbol) [0x00007FF7FA6842E5]
+	(No symbol) [0x00007FF7FA6C98ED]
+	(No symbol) [0x00007FF7FA6C9A2C]
+	(No symbol) [0x00007FF7FA70A967]
+	(No symbol) [0x00007FF7FA6EBCDF]
+	(No symbol) [0x00007FF7FA7081E2]
+	(No symbol) [0x00007FF7FA6EBA43]
+	(No symbol) [0x00007FF7FA6BD438]
+	(No symbol) [0x00007FF7FA6BE4D1]
+	GetHandleVerifier [0x00007FF7FABD6AAD+3709933]
+	GetHandleVerifier [0x00007FF7FAC2FFED+4075821]
+	GetHandleVerifier [0x00007FF7FAC2817F+4043455]
+	GetHandleVerifier [0x00007FF7FA8F9756+706710]
+	(No symbol) [0x00007FF7FA7DB8FF]
+	(No symbol) [0x00007FF7FA7D6AE4]
+	(No symbol) [0x00007FF7FA7D6C3C]
+	(No symbol) [0x00007FF7FA7C68F4]
+	BaseThreadInitThunk [0x00007FFD1EAB257D+29]
+	RtlUserThreadStart [0x00007FFD1FB2AA58+40]
+
+2024-04-15 12:57:08,956 :CRITICAL :test_VerifyEmptyFormValidation :Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FA85AD22+56930]
+	(No symbol) [0x00007FF7FA7CF622]
+	(No symbol) [0x00007FF7FA6842E5]
+	(No symbol) [0x00007FF7FA6C98ED]
+	(No symbol) [0x00007FF7FA6C9A2C]
+	(No symbol) [0x00007FF7FA70A967]
+	(No symbol) [0x00007FF7FA6EBCDF]
+	(No symbol) [0x00007FF7FA7081E2]
+	(No symbol) [0x00007FF7FA6EBA43]
+	(No symbol) [0x00007FF7FA6BD438]
+	(No symbol) [0x00007FF7FA6BE4D1]
+	GetHandleVerifier [0x00007FF7FABD6AAD+3709933]
+	GetHandleVerifier [0x00007FF7FAC2FFED+4075821]
+	GetHandleVerifier [0x00007FF7FAC2817F+4043455]
+	GetHandleVerifier [0x00007FF7FA8F9756+706710]
+	(No symbol) [0x00007FF7FA7DB8FF]
+	(No symbol) [0x00007FF7FA7D6AE4]
+	(No symbol) [0x00007FF7FA7D6C3C]
+	(No symbol) [0x00007FF7FA7C68F4]
+	BaseThreadInitThunk [0x00007FFD1EAB257D+29]
+	RtlUserThreadStart [0x00007FFD1FB2AA58+40]
+
+2024-04-15 12:57:14,867 :CRITICAL :test_Verify_Valid_Form_Submission :Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FA85AD22+56930]
+	(No symbol) [0x00007FF7FA7CF622]
+	(No symbol) [0x00007FF7FA6842E5]
+	(No symbol) [0x00007FF7FA6C98ED]
+	(No symbol) [0x00007FF7FA6C9A2C]
+	(No symbol) [0x00007FF7FA70A967]
+	(No symbol) [0x00007FF7FA6EBCDF]
+	(No symbol) [0x00007FF7FA7081E2]
+	(No symbol) [0x00007FF7FA6EBA43]
+	(No symbol) [0x00007FF7FA6BD438]
+	(No symbol) [0x00007FF7FA6BE4D1]
+	GetHandleVerifier [0x00007FF7FABD6AAD+3709933]
+	GetHandleVerifier [0x00007FF7FAC2FFED+4075821]
+	GetHandleVerifier [0x00007FF7FAC2817F+4043455]
+	GetHandleVerifier [0x00007FF7FA8F9756+706710]
+	(No symbol) [0x00007FF7FA7DB8FF]
+	(No symbol) [0x00007FF7FA7D6AE4]
+	(No symbol) [0x00007FF7FA7D6C3C]
+	(No symbol) [0x00007FF7FA7C68F4]
+	BaseThreadInitThunk [0x00007FFD1EAB257D+29]
+	RtlUserThreadStart [0x00007FFD1FB2AA58+40]
+
+2024-04-15 12:58:30,404 :CRITICAL :test_Verify_Valid_Form_Submission :HTTPConnectionPool(host='localhost', port=50896): Max retries exceeded with url: /session/e0e78b434a41aa90d12e528b8bfae544/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002224D449DC0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2024-04-15 12:58:30,404 :CRITICAL :test_Verify_Valid_Form_Submission :HTTPConnectionPool(host='localhost', port=50896): Max retries exceeded with url: /session/e0e78b434a41aa90d12e528b8bfae544/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002224D449DC0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2024-04-15 12:58:30,404 :CRITICAL :test_Verify_Valid_Form_Submission :HTTPConnectionPool(host='localhost', port=50896): Max retries exceeded with url: /session/e0e78b434a41aa90d12e528b8bfae544/element (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002224D449DC0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2024-04-15 12:59:41,134 :CRITICAL :test_Verify_Valid_Form_Submission :'Test_SignUp' object has no attribute 'wait'
+2024-04-15 13:15:07,863 :CRITICAL :test_Verify_Valid_Form_Submission :Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FA85AD22+56930]
+	(No symbol) [0x00007FF7FA7CF622]
+	(No symbol) [0x00007FF7FA6842E5]
+	(No symbol) [0x00007FF7FA6C98ED]
+	(No symbol) [0x00007FF7FA6C9A2C]
+	(No symbol) [0x00007FF7FA70A967]
+	(No symbol) [0x00007FF7FA6EBCDF]
+	(No symbol) [0x00007FF7FA7081E2]
+	(No symbol) [0x00007FF7FA6EBA43]
+	(No symbol) [0x00007FF7FA6BD438]
+	(No symbol) [0x00007FF7FA6BE4D1]
+	GetHandleVerifier [0x00007FF7FABD6AAD+3709933]
+	GetHandleVerifier [0x00007FF7FAC2FFED+4075821]
+	GetHandleVerifier [0x00007FF7FAC2817F+4043455]
+	GetHandleVerifier [0x00007FF7FA8F9756+706710]
+	(No symbol) [0x00007FF7FA7DB8FF]
+	(No symbol) [0x00007FF7FA7D6AE4]
+	(No symbol) [0x00007FF7FA7D6C3C]
+	(No symbol) [0x00007FF7FA7C68F4]
+	BaseThreadInitThunk [0x00007FFD1EAB257D+29]
+	RtlUserThreadStart [0x00007FFD1FB2AA58+40]
+
+2024-04-15 13:15:35,280 :CRITICAL :test_Verify_Valid_Form_Submission :Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FA85AD22+56930]
+	(No symbol) [0x00007FF7FA7CF622]
+	(No symbol) [0x00007FF7FA6842E5]
+	(No symbol) [0x00007FF7FA6C98ED]
+	(No symbol) [0x00007FF7FA6C9A2C]
+	(No symbol) [0x00007FF7FA70A967]
+	(No symbol) [0x00007FF7FA6EBCDF]
+	(No symbol) [0x00007FF7FA7081E2]
+	(No symbol) [0x00007FF7FA6EBA43]
+	(No symbol) [0x00007FF7FA6BD438]
+	(No symbol) [0x00007FF7FA6BE4D1]
+	GetHandleVerifier [0x00007FF7FABD6AAD+3709933]
+	GetHandleVerifier [0x00007FF7FAC2FFED+4075821]
+	GetHandleVerifier [0x00007FF7FAC2817F+4043455]
+	GetHandleVerifier [0x00007FF7FA8F9756+706710]
+	(No symbol) [0x00007FF7FA7DB8FF]
+	(No symbol) [0x00007FF7FA7D6AE4]
+	(No symbol) [0x00007FF7FA7D6C3C]
+	(No symbol) [0x00007FF7FA7C68F4]
+	BaseThreadInitThunk [0x00007FFD1EAB257D+29]
+	RtlUserThreadStart [0x00007FFD1FB2AA58+40]
+
+2024-04-15 13:15:35,280 :CRITICAL :test_Verify_Valid_Form_Submission :Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FA85AD22+56930]
+	(No symbol) [0x00007FF7FA7CF622]
+	(No symbol) [0x00007FF7FA6842E5]
+	(No symbol) [0x00007FF7FA6C98ED]
+	(No symbol) [0x00007FF7FA6C9A2C]
+	(No symbol) [0x00007FF7FA70A967]
+	(No symbol) [0x00007FF7FA6EBCDF]
+	(No symbol) [0x00007FF7FA7081E2]
+	(No symbol) [0x00007FF7FA6EBA43]
+	(No symbol) [0x00007FF7FA6BD438]
+	(No symbol) [0x00007FF7FA6BE4D1]
+	GetHandleVerifier [0x00007FF7FABD6AAD+3709933]
+	GetHandleVerifier [0x00007FF7FAC2FFED+4075821]
+	GetHandleVerifier [0x00007FF7FAC2817F+4043455]
+	GetHandleVerifier [0x00007FF7FA8F9756+706710]
+	(No symbol) [0x00007FF7FA7DB8FF]
+	(No symbol) [0x00007FF7FA7D6AE4]
+	(No symbol) [0x00007FF7FA7D6C3C]
+	(No symbol) [0x00007FF7FA7C68F4]
+	BaseThreadInitThunk [0x00007FFD1EAB257D+29]
+	RtlUserThreadStart [0x00007FFD1FB2AA58+40]
+
+2024-04-15 13:18:48,625 :CRITICAL :test_Verify_Valid_Form_Submission :Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FA85AD22+56930]
+	(No symbol) [0x00007FF7FA7CF622]
+	(No symbol) [0x00007FF7FA6842E5]
+	(No symbol) [0x00007FF7FA6C98ED]
+	(No symbol) [0x00007FF7FA6C9A2C]
+	(No symbol) [0x00007FF7FA70A967]
+	(No symbol) [0x00007FF7FA6EBCDF]
+	(No symbol) [0x00007FF7FA7081E2]
+	(No symbol) [0x00007FF7FA6EBA43]
+	(No symbol) [0x00007FF7FA6BD438]
+	(No symbol) [0x00007FF7FA6BE4D1]
+	GetHandleVerifier [0x00007FF7FABD6AAD+3709933]
+	GetHandleVerifier [0x00007FF7FAC2FFED+4075821]
+	GetHandleVerifier [0x00007FF7FAC2817F+4043455]
+	GetHandleVerifier [0x00007FF7FA8F9756+706710]
+	(No symbol) [0x00007FF7FA7DB8FF]
+	(No symbol) [0x00007FF7FA7D6AE4]
+	(No symbol) [0x00007FF7FA7D6C3C]
+	(No symbol) [0x00007FF7FA7C68F4]
+	BaseThreadInitThunk [0x00007FFD1EAB257D+29]
+	RtlUserThreadStart [0x00007FFD1FB2AA58+40]
+
+2024-04-15 14:22:49,919 :CRITICAL :test_Verify_Valid_Form_Submission :Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FA85AD22+56930]
+	(No symbol) [0x00007FF7FA7CF622]
+	(No symbol) [0x00007FF7FA6842E5]
+	(No symbol) [0x00007FF7FA6C98ED]
+	(No symbol) [0x00007FF7FA6C9A2C]
+	(No symbol) [0x00007FF7FA70A967]
+	(No symbol) [0x00007FF7FA6EBCDF]
+	(No symbol) [0x00007FF7FA7081E2]
+	(No symbol) [0x00007FF7FA6EBA43]
+	(No symbol) [0x00007FF7FA6BD438]
+	(No symbol) [0x00007FF7FA6BE4D1]
+	GetHandleVerifier [0x00007FF7FABD6AAD+3709933]
+	GetHandleVerifier [0x00007FF7FAC2FFED+4075821]
+	GetHandleVerifier [0x00007FF7FAC2817F+4043455]
+	GetHandleVerifier [0x00007FF7FA8F9756+706710]
+	(No symbol) [0x00007FF7FA7DB8FF]
+	(No symbol) [0x00007FF7FA7D6AE4]
+	(No symbol) [0x00007FF7FA7D6C3C]
+	(No symbol) [0x00007FF7FA7C68F4]
+	BaseThreadInitThunk [0x00007FFD1EAB257D+29]
+	RtlUserThreadStart [0x00007FFD1FB2AA58+40]
+
+2024-04-22 23:02:17,206 :ERROR :test_SignUpForm :Error in test_SignUpForm : 'WebElement' object has no attribute 'react'
+2024-04-24 22:10:38,174 :ERROR :test_SignUpForm :Assertion error: Actual Result does not have Registration
+assert 'wertre' in 'Amazon Registration'
+2024-04-24 22:14:36,235 :ERROR :test_SignUpForm :Assertion error: Actual Result does not have Registration
+assert 'wertre' in 'Amazon Registration'
+2024-04-24 22:17:29,147 :ERROR :test_SignUpForm :Assertion error: Actual Result does not have Registration
+assert 'test' in 'Amazon Registration'
+2024-04-24 22:19:29,128 :ERROR :test_SignUpForm :Timeout waiting for element: Message: 
+
+2024-04-24 22:19:34,920 :CRITICAL :test_VerifyEmptyFormValidation :Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7C295AD22+56930]
+	(No symbol) [0x00007FF7C28CF622]
+	(No symbol) [0x00007FF7C27842E5]
+	(No symbol) [0x00007FF7C27C98ED]
+	(No symbol) [0x00007FF7C27C9A2C]
+	(No symbol) [0x00007FF7C280A967]
+	(No symbol) [0x00007FF7C27EBCDF]
+	(No symbol) [0x00007FF7C28081E2]
+	(No symbol) [0x00007FF7C27EBA43]
+	(No symbol) [0x00007FF7C27BD438]
+	(No symbol) [0x00007FF7C27BE4D1]
+	GetHandleVerifier [0x00007FF7C2CD6AAD+3709933]
+	GetHandleVerifier [0x00007FF7C2D2FFED+4075821]
+	GetHandleVerifier [0x00007FF7C2D2817F+4043455]
+	GetHandleVerifier [0x00007FF7C29F9756+706710]
+	(No symbol) [0x00007FF7C28DB8FF]
+	(No symbol) [0x00007FF7C28D6AE4]
+	(No symbol) [0x00007FF7C28D6C3C]
+	(No symbol) [0x00007FF7C28C68F4]
+	BaseThreadInitThunk [0x00007FFE77AA257D+29]
+	RtlUserThreadStart [0x00007FFE78FCAA58+40]
+
+2024-04-24 22:19:40,585 :CRITICAL :test_Verify_Valid_Form_Submission :Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7C295AD22+56930]
+	(No symbol) [0x00007FF7C28CF622]
+	(No symbol) [0x00007FF7C27842E5]
+	(No symbol) [0x00007FF7C27C98ED]
+	(No symbol) [0x00007FF7C27C9A2C]
+	(No symbol) [0x00007FF7C280A967]
+	(No symbol) [0x00007FF7C27EBCDF]
+	(No symbol) [0x00007FF7C28081E2]
+	(No symbol) [0x00007FF7C27EBA43]
+	(No symbol) [0x00007FF7C27BD438]
+	(No symbol) [0x00007FF7C27BE4D1]
+	GetHandleVerifier [0x00007FF7C2CD6AAD+3709933]
+	GetHandleVerifier [0x00007FF7C2D2FFED+4075821]
+	GetHandleVerifier [0x00007FF7C2D2817F+4043455]
+	GetHandleVerifier [0x00007FF7C29F9756+706710]
+	(No symbol) [0x00007FF7C28DB8FF]
+	(No symbol) [0x00007FF7C28D6AE4]
+	(No symbol) [0x00007FF7C28D6C3C]
+	(No symbol) [0x00007FF7C28C68F4]
+	BaseThreadInitThunk [0x00007FFE77AA257D+29]
+	RtlUserThreadStart [0x00007FFE78FCAA58+40]
+
+2024-04-24 22:34:53,794 :ERROR :test_SignUpForm :Assertion error: Actual Result does not have Registration
+assert 'test' in 'Amazon Registration'
+2024-04-24 22:37:15,228 :ERROR :test_SignUpForm :Assertion error: Actual Result does not have Registration
+assert 'test' in 'Amazon Registration'
+2024-04-24 22:46:32,700 :ERROR :test_SignUpForm :Assertion error: Actual Result does not have Registration
+assert 'test' in 'Amazon Registration'
+2024-04-24 22:50:34,409 :ERROR :test_SignUpForm :Assertion error: Actual Result does not have Registration
+assert 'test' in 'Amazon Registration'
+2024-04-24 22:55:55,151 :ERROR :test_SignUpForm :Assertion error: Actual Result does not have Registration
+assert 'test' in 'Amazon Registration'
+2024-04-24 22:58:01,778 :ERROR :test_SignUpForm :Assertion error: Actual Result does not have Registration
+assert 'test' in 'Amazon Registration'
+2024-04-24 23:06:08,371 :CRITICAL :test_VerifyEmptyFormValidation :Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7C295AD22+56930]
+	(No symbol) [0x00007FF7C28CF622]
+	(No symbol) [0x00007FF7C27842E5]
+	(No symbol) [0x00007FF7C27C98ED]
+	(No symbol) [0x00007FF7C27C9A2C]
+	(No symbol) [0x00007FF7C280A967]
+	(No symbol) [0x00007FF7C27EBCDF]
+	(No symbol) [0x00007FF7C28081E2]
+	(No symbol) [0x00007FF7C27EBA43]
+	(No symbol) [0x00007FF7C27BD438]
+	(No symbol) [0x00007FF7C27BE4D1]
+	GetHandleVerifier [0x00007FF7C2CD6AAD+3709933]
+	GetHandleVerifier [0x00007FF7C2D2FFED+4075821]
+	GetHandleVerifier [0x00007FF7C2D2817F+4043455]
+	GetHandleVerifier [0x00007FF7C29F9756+706710]
+	(No symbol) [0x00007FF7C28DB8FF]
+	(No symbol) [0x00007FF7C28D6AE4]
+	(No symbol) [0x00007FF7C28D6C3C]
+	(No symbol) [0x00007FF7C28C68F4]
+	BaseThreadInitThunk [0x00007FFE77AA257D+29]
+	RtlUserThreadStart [0x00007FFE78FCAA58+40]
+
+2024-04-24 23:08:06,403 :ERROR :test_SignUpForm :Assertion error: Actual Result does not have Registration
+assert 'test' in 'Amazon Registration'
+2024-04-24 23:11:29,962 :ERROR :test_SignUpForm :Assertion error: Actual Result does not have Registration
+assert 'test' in 'Amazon Registration'
+2024-04-25 13:19:18,893 :ERROR :test_SignUpForm :Assertion error: Actual Result does not have Registration
+assert 'test' in 'Amazon Registration'
+2024-04-25 13:39:43,372 :ERROR :test_SignUpForm :Assertion error: Actual Result does not have Registration
+assert 'test' in 'Amazon Registration'
+2024-04-25 13:41:26,693 :ERROR :test_SignUpForm :Assertion error: Actual Result does not have Registration
+assert 'test' in 'Amazon Registration'
+2024-04-25 14:23:13,188 :ERROR :test_SignUpForm :Assertion error: Actual Result does not have Registration
+assert 'test' in 'Amazon Registration'
+2024-04-26 20:37:30,172 :ERROR :test_SignUpForm :Assertion error: Actual Result does not have Registration
+assert 'test' in 'Amazon Registration'
+2024-04-26 22:02:41,174 :CRITICAL :test_SignUpForm :Error occurred: Actual Result does not have Registration
+assert 'test' in 'Amazon Registration'
+2024-04-29 13:49:15,792 :CRITICAL :test_VerifyEmptyFormValidation :Error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7F5971502+60802]
+	(No symbol) [0x00007FF7F58EAC02]
+	(No symbol) [0x00007FF7F57A7CE4]
+	(No symbol) [0x00007FF7F57F6D4D]
+	(No symbol) [0x00007FF7F57F6E1C]
+	(No symbol) [0x00007FF7F583CE37]
+	(No symbol) [0x00007FF7F581ABBF]
+	(No symbol) [0x00007FF7F583A224]
+	(No symbol) [0x00007FF7F581A923]
+	(No symbol) [0x00007FF7F57E8FEC]
+	(No symbol) [0x00007FF7F57E9C21]
+	GetHandleVerifier [0x00007FF7F5C7411D+3217821]
+	GetHandleVerifier [0x00007FF7F5CB60B7+3488055]
+	GetHandleVerifier [0x00007FF7F5CAF03F+3459263]
+	GetHandleVerifier [0x00007FF7F5A2B846+823494]
+	(No symbol) [0x00007FF7F58F5F9F]
+	(No symbol) [0x00007FF7F58F0EC4]
+	(No symbol) [0x00007FF7F58F1052]
+	(No symbol) [0x00007FF7F58E18A4]
+	BaseThreadInitThunk [0x00007FFE77AA257D+29]
+	RtlUserThreadStart [0x00007FFE78FCAA58+40]
+
+2024-04-29 14:04:51,444 :CRITICAL :test_VerifyEmptyFormValidation :Error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7F5971502+60802]
+	(No symbol) [0x00007FF7F58EAC02]
+	(No symbol) [0x00007FF7F57A7CE4]
+	(No symbol) [0x00007FF7F57F6D4D]
+	(No symbol) [0x00007FF7F57F6E1C]
+	(No symbol) [0x00007FF7F583CE37]
+	(No symbol) [0x00007FF7F581ABBF]
+	(No symbol) [0x00007FF7F583A224]
+	(No symbol) [0x00007FF7F581A923]
+	(No symbol) [0x00007FF7F57E8FEC]
+	(No symbol) [0x00007FF7F57E9C21]
+	GetHandleVerifier [0x00007FF7F5C7411D+3217821]
+	GetHandleVerifier [0x00007FF7F5CB60B7+3488055]
+	GetHandleVerifier [0x00007FF7F5CAF03F+3459263]
+	GetHandleVerifier [0x00007FF7F5A2B846+823494]
+	(No symbol) [0x00007FF7F58F5F9F]
+	(No symbol) [0x00007FF7F58F0EC4]
+	(No symbol) [0x00007FF7F58F1052]
+	(No symbol) [0x00007FF7F58E18A4]
+	BaseThreadInitThunk [0x00007FFE77AA257D+29]
+	RtlUserThreadStart [0x00007FFE78FCAA58+40]
+
+2024-04-29 14:14:03,446 :CRITICAL :test_Verify_Valid_Form_Submission :Error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7F5971502+60802]
+	(No symbol) [0x00007FF7F58EAC02]
+	(No symbol) [0x00007FF7F57A7CE4]
+	(No symbol) [0x00007FF7F57F6D4D]
+	(No symbol) [0x00007FF7F57F6E1C]
+	(No symbol) [0x00007FF7F583CE37]
+	(No symbol) [0x00007FF7F581ABBF]
+	(No symbol) [0x00007FF7F583A224]
+	(No symbol) [0x00007FF7F581A923]
+	(No symbol) [0x00007FF7F57E8FEC]
+	(No symbol) [0x00007FF7F57E9C21]
+	GetHandleVerifier [0x00007FF7F5C7411D+3217821]
+	GetHandleVerifier [0x00007FF7F5CB60B7+3488055]
+	GetHandleVerifier [0x00007FF7F5CAF03F+3459263]
+	GetHandleVerifier [0x00007FF7F5A2B846+823494]
+	(No symbol) [0x00007FF7F58F5F9F]
+	(No symbol) [0x00007FF7F58F0EC4]
+	(No symbol) [0x00007FF7F58F1052]
+	(No symbol) [0x00007FF7F58E18A4]
+	BaseThreadInitThunk [0x00007FFE77AA257D+29]
+	RtlUserThreadStart [0x00007FFE78FCAA58+40]
+
+2024-04-29 14:15:23,579 :CRITICAL :test_Verify_Valid_Form_Submission :Error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7F5971502+60802]
+	(No symbol) [0x00007FF7F58EAC02]
+	(No symbol) [0x00007FF7F57A7CE4]
+	(No symbol) [0x00007FF7F57F6D4D]
+	(No symbol) [0x00007FF7F57F6E1C]
+	(No symbol) [0x00007FF7F583CE37]
+	(No symbol) [0x00007FF7F581ABBF]
+	(No symbol) [0x00007FF7F583A224]
+	(No symbol) [0x00007FF7F581A923]
+	(No symbol) [0x00007FF7F57E8FEC]
+	(No symbol) [0x00007FF7F57E9C21]
+	GetHandleVerifier [0x00007FF7F5C7411D+3217821]
+	GetHandleVerifier [0x00007FF7F5CB60B7+3488055]
+	GetHandleVerifier [0x00007FF7F5CAF03F+3459263]
+	GetHandleVerifier [0x00007FF7F5A2B846+823494]
+	(No symbol) [0x00007FF7F58F5F9F]
+	(No symbol) [0x00007FF7F58F0EC4]
+	(No symbol) [0x00007FF7F58F1052]
+	(No symbol) [0x00007FF7F58E18A4]
+	BaseThreadInitThunk [0x00007FFE77AA257D+29]
+	RtlUserThreadStart [0x00007FFE78FCAA58+40]
+
+2024-04-29 14:25:53,579 :CRITICAL :test_Verify_Valid_Form_Submission :Error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7F5971502+60802]
+	(No symbol) [0x00007FF7F58EAC02]
+	(No symbol) [0x00007FF7F57A7CE4]
+	(No symbol) [0x00007FF7F57F6D4D]
+	(No symbol) [0x00007FF7F57F6E1C]
+	(No symbol) [0x00007FF7F583CE37]
+	(No symbol) [0x00007FF7F581ABBF]
+	(No symbol) [0x00007FF7F583A224]
+	(No symbol) [0x00007FF7F581A923]
+	(No symbol) [0x00007FF7F57E8FEC]
+	(No symbol) [0x00007FF7F57E9C21]
+	GetHandleVerifier [0x00007FF7F5C7411D+3217821]
+	GetHandleVerifier [0x00007FF7F5CB60B7+3488055]
+	GetHandleVerifier [0x00007FF7F5CAF03F+3459263]
+	GetHandleVerifier [0x00007FF7F5A2B846+823494]
+	(No symbol) [0x00007FF7F58F5F9F]
+	(No symbol) [0x00007FF7F58F0EC4]
+	(No symbol) [0x00007FF7F58F1052]
+	(No symbol) [0x00007FF7F58E18A4]
+	BaseThreadInitThunk [0x00007FFE77AA257D+29]
+	RtlUserThreadStart [0x00007FFE78FCAA58+40]
+
+2024-04-29 15:56:59,556 :CRITICAL :test_SignUpForm :Error occurred: Message: 
+
+2024-04-29 15:57:04,999 :CRITICAL :test_VerifyEmptyFormValidation :Error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7426D1502+60802]
+	(No symbol) [0x00007FF74264AC02]
+	(No symbol) [0x00007FF742507CE4]
+	(No symbol) [0x00007FF742556D4D]
+	(No symbol) [0x00007FF742556E1C]
+	(No symbol) [0x00007FF74259CE37]
+	(No symbol) [0x00007FF74257ABBF]
+	(No symbol) [0x00007FF74259A224]
+	(No symbol) [0x00007FF74257A923]
+	(No symbol) [0x00007FF742548FEC]
+	(No symbol) [0x00007FF742549C21]
+	GetHandleVerifier [0x00007FF7429D411D+3217821]
+	GetHandleVerifier [0x00007FF742A160B7+3488055]
+	GetHandleVerifier [0x00007FF742A0F03F+3459263]
+	GetHandleVerifier [0x00007FF74278B846+823494]
+	(No symbol) [0x00007FF742655F9F]
+	(No symbol) [0x00007FF742650EC4]
+	(No symbol) [0x00007FF742651052]
+	(No symbol) [0x00007FF7426418A4]
+	BaseThreadInitThunk [0x00007FFE77AA257D+29]
+	RtlUserThreadStart [0x00007FFE78FCAA58+40]
+
+2024-04-29 15:57:10,479 :CRITICAL :test_Verify_Valid_Form_Submission :Error occurred: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF7426D1502+60802]
+	(No symbol) [0x00007FF74264AC02]
+	(No symbol) [0x00007FF742507CE4]
+	(No symbol) [0x00007FF742556D4D]
+	(No symbol) [0x00007FF742556E1C]
+	(No symbol) [0x00007FF74259CE37]
+	(No symbol) [0x00007FF74257ABBF]
+	(No symbol) [0x00007FF74259A224]
+	(No symbol) [0x00007FF74257A923]
+	(No symbol) [0x00007FF742548FEC]
+	(No symbol) [0x00007FF742549C21]
+	GetHandleVerifier [0x00007FF7429D411D+3217821]
+	GetHandleVerifier [0x00007FF742A160B7+3488055]
+	GetHandleVerifier [0x00007FF742A0F03F+3459263]
+	GetHandleVerifier [0x00007FF74278B846+823494]
+	(No symbol) [0x00007FF742655F9F]
+	(No symbol) [0x00007FF742650EC4]
+	(No symbol) [0x00007FF742651052]
+	(No symbol) [0x00007FF7426418A4]
+	BaseThreadInitThunk [0x00007FFE77AA257D+29]
+	RtlUserThreadStart [0x00007FFE78FCAA58+40]
+
+2024-05-08 23:56:47,793 :CRITICAL :test_Verify_Valid_Form_Submission :Error occurred: Message: stale element reference: stale element not found
+  (Session info: chrome=124.0.6367.119); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7BD581502+60802]
+	(No symbol) [0x00007FF7BD4FAC02]
+	(No symbol) [0x00007FF7BD3B7CE4]
+	(No symbol) [0x00007FF7BD3CA051]
+	(No symbol) [0x00007FF7BD3CAA7A]
+	(No symbol) [0x00007FF7BD3BE95B]
+	(No symbol) [0x00007FF7BD3CAAB8]
+	(No symbol) [0x00007FF7BD3BE95B]
+	(No symbol) [0x00007FF7BD3BC781]
+	(No symbol) [0x00007FF7BD3C04F6]
+	(No symbol) [0x00007FF7BD44AEC3]
+	(No symbol) [0x00007FF7BD42AB7A]
+	(No symbol) [0x00007FF7BD44A224]
+	(No symbol) [0x00007FF7BD42A923]
+	(No symbol) [0x00007FF7BD3F8FEC]
+	(No symbol) [0x00007FF7BD3F9C21]
+	GetHandleVerifier [0x00007FF7BD88411D+3217821]
+	GetHandleVerifier [0x00007FF7BD8C60B7+3488055]
+	GetHandleVerifier [0x00007FF7BD8BF03F+3459263]
+	GetHandleVerifier [0x00007FF7BD63B846+823494]
+	(No symbol) [0x00007FF7BD505F9F]
+	(No symbol) [0x00007FF7BD500EC4]
+	(No symbol) [0x00007FF7BD501052]
+	(No symbol) [0x00007FF7BD4F18A4]
+	BaseThreadInitThunk [0x00007FFEAC72257D+29]
+	RtlUserThreadStart [0x00007FFEAD36AA48+40]
+
